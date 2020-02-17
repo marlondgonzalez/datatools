@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # ---------------------------------------------------------------------------
-# pge_datafunctions.py
+# datafunctions.py
 # Commonly used functions will be defined in this file and imported accordinglys
 # ---------------------------------------------------------------------------
 import os
