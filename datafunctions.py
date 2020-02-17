@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # ---------------------------------------------------------------------------
 # datafunctions.py
-# Commonly used functions will be defined in this file and imported accordinglys
+# Commonly used functions will be defined in this file and imported accordingly
 # ---------------------------------------------------------------------------
 import os
 
