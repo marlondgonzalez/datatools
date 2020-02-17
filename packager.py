@@ -91,6 +91,6 @@ for i in layer:
             packexcel()
             destroylayer()
             print("Now Looping...")
-print("CIS data packaging process successful!")
+print("data packaging process successful!")
 end_time = datetime.now()
 print("Total execution time: {}".format(end_time - start_time))
